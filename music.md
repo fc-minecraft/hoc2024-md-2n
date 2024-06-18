@@ -5,7 +5,7 @@
 # Music
 
 ## Step 1
-Make Music
+Make Music 2
 
 ```ghost
     hoc2024.testInstrument()
