@@ -1,6 +1,6 @@
 {
     "name": "hoc2024-md",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,11 +9,16 @@
     "files": [
         "README.md",
         "music.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "dance.md",
+        "costume.md",
+        "setdesign.md",
+        "no_code.md"
     ],
     "testFiles": [],
+    "public": true,
     "targetVersions": {
-        "target": "1.8.5",
+        "target": "1.7.28",
         "targetId": "minecraft"
     },
     "supportedTargets": [
