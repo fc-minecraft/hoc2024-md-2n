@@ -16,18 +16,18 @@ Time to pick out some costumes! Sequence together the different ``||hoc2024:uppe
 ```
 ```template
     hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2)
-    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2))
-    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2))
-    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2))
+    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2)
+    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2)
+    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2)
     for (let i = 0; i < 3; i++) {
         hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2)
     }
-    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2))
-    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2))
-    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2))
-    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2))
+    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2)
+    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2)
+    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2)
+    hoc2024.costume(HeadWear.Head2, MidWear.Mid2, LowerWear.Lower2)
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-tsv0.0.38
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.38
 ```
