@@ -8,6 +8,7 @@
 Time to pick out some costumes! Sequence together the different ``||hoc2024:upper, middle, and lower||`` costumes you want the Agent to change into during the show.
 
 #### ~ tutorialhint
+You can use a for loop instead of multiple blocks to keep a specific costume on for longer.
 
 
 ```ghost
