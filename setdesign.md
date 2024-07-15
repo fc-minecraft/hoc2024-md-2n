@@ -8,7 +8,7 @@
 Let's design the sets! Choose which ``||hoc2024:biome, time, and weather||`` should be displayed for each portion of the show.
 
 #### ~ tutorialhint
-You can use a for loop instead of multiple blocks to keep a specific set up for longer.
+You can use a ``||loops:for loop||`` instead of multiple blocks to keep a specific set up for longer.
 
 ```ghost
     hoc2024.seta()
@@ -30,5 +30,5 @@ You can use a for loop instead of multiple blocks to keep a specific set up for 
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.38
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.39
 ```

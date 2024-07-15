@@ -8,6 +8,7 @@
 Let's dance! Sequence together your ``||hoc2024:dance steps||`` to create a dance for the Agent to do.
 
 #### ~ tutorialhint
+You can use a ``||loops:for loop||`` instead of multiple blocks to repeat the same dance move.
 
 
 ```ghost
@@ -29,5 +30,5 @@ Let's dance! Sequence together your ``||hoc2024:dance steps||`` to create a danc
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.38
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.39
 ```

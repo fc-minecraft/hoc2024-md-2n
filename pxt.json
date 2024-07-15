@@ -13,12 +13,13 @@
         "dance.md",
         "costume.md",
         "setdesign.md",
-        "no_code.md"
+        "no_code.md",
+        "tutorial.md"
     ],
     "testFiles": [],
     "public": true,
     "targetVersions": {
-        "target": "1.7.28",
+        "target": "1.8.5",
         "targetId": "minecraft"
     },
     "supportedTargets": [

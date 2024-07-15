@@ -8,7 +8,7 @@
 Time to pick out some costumes! Sequence together the different ``||hoc2024:upper, middle, and lower||`` costumes you want the Agent to change into during the show.
 
 #### ~ tutorialhint
-You can use a for loop instead of multiple blocks to keep a specific costume on for longer.
+You can use a ``||loops:for loop||`` instead of multiple blocks to keep a specific costume on for longer.
 
 
 ```ghost
@@ -30,5 +30,5 @@ You can use a for loop instead of multiple blocks to keep a specific costume on 
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.38
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.39
 ```
