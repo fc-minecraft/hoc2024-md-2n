@@ -15,16 +15,16 @@ You can use a ``||loops:for loop||`` instead of multiple blocks to keep a specif
     for (let i = 0; i < 5; i++) {}
 ```
 ```template
-    hoc2024.seta(Biome.Biome1, Time.Time0, WeatherA.Weather0)
-    hoc2024.seta(Biome.Biome1, Time.Time0, WeatherA.Weather0)
+    hoc2024.seta(Biome.Biome2, Time.Time1, WeatherA.Weather1)
+    hoc2024.seta(Biome.Biome2, Time.Time1, WeatherA.Weather1)
     for (let i = 0; i < 3; i++) {
-        hoc2024.seta(Biome.Biome1, Time.Time1, WeatherA.Weather1)
+        hoc2024.seta(Biome.Biome2, Time.Time2, WeatherA.Weather2)
     }
     for (let i = 0; i < 3; i++) {
-        hoc2024.seta(Biome.Biome1, Time.Time2, WeatherA.Weather3)
+        hoc2024.seta(Biome.Biome2, Time.Time3, WeatherA.Weather4)
     }
     for (let i = 0; i < 3; i++) {
-        hoc2024.seta(Biome.Biome1, Time.Time3, WeatherA.Weather4)
+        hoc2024.seta(Biome.Biome2, Time.Time4, WeatherA.Weather4)
     }
     
 ```
