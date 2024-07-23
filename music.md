@@ -33,5 +33,5 @@ You can switch the ``||hoc2024:instrument||`` and/or ``||hoc2024:drum||`` at any
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.43
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.44
 ```
