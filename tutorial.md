@@ -18,5 +18,5 @@ Drag the ``||hoc2024:raise hand||`` block into the ``||loops:on start||`` block
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.44
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.46
 ```
