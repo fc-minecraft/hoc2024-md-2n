@@ -5,7 +5,7 @@
 # Compose the music
 
 ## Step 1
-Let's compose some music! First select an ``||hoc2024:instrument||`` and a ``||hoc2024:drum||`` beat. Then use the ``||hoc2024:keys||`` block to create the song. 
+Let's compose some music! First select an ``||hoc2024:instrument||`` and a ``||hoc2024:drum||`` beat. Then use the ``||hoc2024:note||`` block to create the song. 
 
 #### ~ tutorialhint
 You can switch the ``||hoc2024:instrument||`` and/or ``||hoc2024:drum||`` at any time by adding a new one to your sequence.
