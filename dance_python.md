@@ -25,5 +25,5 @@ DANCE PYTHON HINT
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.52
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.53
 ```
