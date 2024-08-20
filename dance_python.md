@@ -12,16 +12,16 @@ DANCE PYTHON HINT
 
 
 ```python-template
-    hoc2024.dances(Dances.Move2)
-    hoc2024.dances(Dances.Move2)
-    hoc2024.dances(Dances.Move2)
-    hoc2024.dances(Dances.Move1)
-    hoc2024.dances(Dances.Move1)
-    for i in range(3):
-        hoc2024.dances(Dances.Move4)
-    hoc2024.dances(Dances.Move5)
-    hoc2024.dances(Dances.Move5)
-    hoc2024.dances(Dances.Move6)
+hoc2024.dances(Dances.Move2)
+hoc2024.dances(Dances.Move2)
+hoc2024.dances(Dances.Move2)
+hoc2024.dances(Dances.Move1)
+hoc2024.dances(Dances.Move1)
+for i in range(3):
+    hoc2024.dances(Dances.Move4)
+hoc2024.dances(Dances.Move5)
+hoc2024.dances(Dances.Move5)
+hoc2024.dances(Dances.Move6)
 ```
 
 ```package
