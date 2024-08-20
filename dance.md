@@ -16,19 +16,19 @@ You can use a ``||loops:for loop||`` instead of multiple blocks to repeat the sa
     for (let i = 0; i < 5; i++) {}
 ```
 ```template
-    hoc2024.dances(Dances.Move2)
-    hoc2024.dances(Dances.Move2)
-    hoc2024.dances(Dances.Move2)
-    hoc2024.dances(Dances.Move1)
-    hoc2024.dances(Dances.Move1)
+    hoc2024._dances_makecode(Dances_makecode.Move2)
+    hoc2024._dances_makecode(Dances_makecode.Move2)
+    hoc2024._dances_makecode(Dances_makecode.Move2)
+    hoc2024._dances_makecode(Dances_makecode.Move1)
+    hoc2024._dances_makecode(Dances_makecode.Move1)
     for (let i = 0; i < 3; i++) {
-        hoc2024.dances(Dances.Move12)
+        hoc2024._dances_makecode(Dances_makecode.Move4)
     }
-    hoc2024.dances(Dances.Move8)
-    hoc2024.dances(Dances.Move8)
-    hoc2024.dances(Dances.Move11)
+    hoc2024._dances_makecode(Dances_makecode.Move5)
+    hoc2024._dances_makecode(Dances_makecode.Move5)
+    hoc2024._dances_makecode(Dances_makecode.Move6)
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.50
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.52
 ```
