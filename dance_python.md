@@ -5,11 +5,16 @@
 # Choreograph a Dance
 
 ## Step 1
-DANCE PYTHON TEST
+DANCE PYTHON TEST UPDATED 836AM 2024/8/21
 
 #### ~ tutorialhint
 DANCE PYTHON HINT
 
+```ghost
+    hoc2024.dances(Dances.Move2)
+    for i in range(3):
+        hoc2024.dances(Dances.Move4)
+```
 
 ```python-template
 hoc2024.dances(Dances.Move2)
