@@ -22,5 +22,5 @@ There are 4 posters on the wall with numbers. Those posters will tell you the se
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/dance#v0.0.63
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/dance#v0.0.65
 ```
