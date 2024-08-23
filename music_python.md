@@ -7,15 +7,20 @@
 ## Create your own Music
 The Agent needs help composing music for its show. Use the following functions to create music for the Agent.
 
-*hoc.add_instrument()* and *hoc.remove_instrument()* parameters:
-Instrument.Synth, Instrument.Xylophone, Instrument.Guitar, Instrument.Flute, Instrument.Bells, Instrument.Bass, Instrument.Piano, Instrument.Villager
+```python
+# Available parameters:
+# Instrument.Synth, Instrument.Xylophone, Instrument.Guitar, Instrument.Flute, Instrument.Bells, Instrument.Bass, Instrument.Piano, Instrument.Villager
+hoc.add_instrument(Instrument.Synth)
+hoc.remove_instrument(Instrument.Synth)
 
-*hoc.note()* parameters
-Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
+# Available parameters:
+# Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
+hoc.note(Note.Do)
 
-*hoc.drums()* parameters
-Drums.Fast, Drums.Medium, Drums.Slow, Drums.None.
-
+# Available parameters
+# Drums.Fast, Drums.Medium, Drums.Slow, Drums.Stop.
+hoc.drums(Drums.Fast)
+```
 
 ```python-template
 hoc.add_instrument(Instrument.Piano)
