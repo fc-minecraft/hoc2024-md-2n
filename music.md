@@ -36,5 +36,5 @@ You can add or remove an instrument at any time throughout your music. If you de
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.67
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.69
 ```

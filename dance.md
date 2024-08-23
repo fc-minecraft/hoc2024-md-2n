@@ -30,5 +30,5 @@ You can use a ``||loops:for loop||`` instead of multiple blocks to repeat the sa
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/dance#v0.0.65
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/dance#v0.0.69
 ```
