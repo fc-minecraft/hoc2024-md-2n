@@ -7,6 +7,7 @@
 ## Create your own Music
 The Agent needs help composing music for its show. Use the following functions to create music for the Agent.
 
+```python
 *hoc.add_instrument()* and *hoc.remove_instrument()* parameters:
 Instrument.Synth, Instrument.Xylophone, Instrument.Guitar, Instrument.Flute, Instrument.Bells, Instrument.Bass, Instrument.Piano, Instrument.Villager
 
@@ -15,6 +16,7 @@ Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
 
 *hoc.drums()* parameters
 Drums.Fast, Drums.Medium, Drums.Slow, Drums.None.
+```
 
 ```python-template
 hoc.add_instrument(Instrument.Piano)
@@ -36,5 +38,5 @@ hoc.note(Note.Ti)
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.56
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.57
 ```

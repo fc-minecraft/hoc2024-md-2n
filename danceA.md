@@ -12,15 +12,15 @@ There are 4 posters on the wall with numbers. Those posters will tell you the se
 
 
 ```ghost
-    hoc2024.dancea()
+    hoc._dance_activity()
 ```
 ```template
-    hoc2024.dancea(DancesA.Move1)
-    hoc2024.dancea(DancesA.Move1)
-    hoc2024.dancea(DancesA.Move1)
-    hoc2024.dancea(DancesA.Move1)
+    hoc._dance_activity(_Dances_Actvity.Move1)
+    hoc._dance_activity(_Dances_Actvity.Move1)
+    hoc._dance_activity(_Dances_Actvity.Move1)
+    hoc._dance_activity(_Dances_Actvity.Move1)
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.50
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/dance#v0.0.63
 ```

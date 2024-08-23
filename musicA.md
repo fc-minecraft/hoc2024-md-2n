@@ -19,5 +19,5 @@ IGNORE ME, I'M NOT REAL YET
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.55
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.57
 ```

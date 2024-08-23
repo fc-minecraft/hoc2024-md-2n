@@ -4,31 +4,22 @@
 
 # Choreograph a Dance
 
-## Step 1
-DANCE PYTHON TEST UPDATED 836AM 2024/8/21
+## Dance like no one's watching
+The Agent needs help choreographing a dance sequence for the show. Use the *hoc.dance()* function to sequence a dance choreography for the Agent.
 
-#### ~ tutorialhint
-DANCE PYTHON HINT
-
-```ghost
-    hoc2024.dances(Dances.Move2)
-    for i in range(3):
-        hoc2024.dances(Dances.Move4)
+```python
+*hoc.dance()* can use the following dances.
+Dance.Move1, Dance.Move2, Dance.Move3 all the way through Dance.Move14
 ```
 
 ```python-template
-hoc2024.dances(Dances.Move2)
-hoc2024.dances(Dances.Move2)
-hoc2024.dances(Dances.Move2)
-hoc2024.dances(Dances.Move1)
-hoc2024.dances(Dances.Move1)
 for i in range(3):
-    hoc2024.dances(Dances.Move4)
-hoc2024.dances(Dances.Move5)
-hoc2024.dances(Dances.Move5)
-hoc2024.dances(Dances.Move6)
+    hoc.dances(Dances.Move1)
+hoc.dances(Dances.Move2)
+hoc.dances(Dances.Move3)
+hoc.dances(Dances.Move4)
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.53
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/dance#v0.0.63
 ```

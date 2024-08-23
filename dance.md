@@ -12,23 +12,23 @@ You can use a ``||loops:for loop||`` instead of multiple blocks to repeat the sa
 
 
 ```ghost
-    hoc2024.dances()
+    hoc.dances()
     for (let i = 0; i < 5; i++) {}
 ```
 ```template
-    hoc2024._dances_makecode(Dances_makecode.Move2)
-    hoc2024._dances_makecode(Dances_makecode.Move2)
-    hoc2024._dances_makecode(Dances_makecode.Move2)
-    hoc2024._dances_makecode(Dances_makecode.Move1)
-    hoc2024._dances_makecode(Dances_makecode.Move1)
-    for (let i = 0; i < 3; i++) {
-        hoc2024._dances_makecode(Dances_makecode.Move4)
+    hoc.dance(Dance.Move2)
+    hoc.dance(Dance.Move4)
+    hoc.dance(Dance.Move3)
+    hoc.dance(Dance.Move1)
+    hoc.dance(Dance.Move5)
+    for (let i = 0; i < 7; i++) {
+        hoc.dance(Dance.Move4)
     }
-    hoc2024._dances_makecode(Dances_makecode.Move5)
-    hoc2024._dances_makecode(Dances_makecode.Move5)
-    hoc2024._dances_makecode(Dances_makecode.Move6)
+    hoc.dance(Dance.Move8)
+    hoc.dance(Dance.Move9)
+    hoc.dance(Dance.Move10)
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.52
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/dance#v0.0.63
 ```
