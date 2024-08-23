@@ -12,12 +12,11 @@ Help Instructor Welsen finish choreographing their dance return. Let's first lea
 ## Choreographing the dance
 The function *hoc.dance()* is used to set the dance move you want performed. It takes a single parameter that defines the move. 
 
-```python
 Available parameters are:
 Dance.Move1 (golem gallop), Dance.Move2 (wither wave), Dance.Move3 (shulker shuffle), Dance.Move4 (mushroom march)
-```
 
-```python-template
+
+```python
 hoc.dances(Dances.Move1)
 hoc.dances(Dances.Move2)
 hoc.dances(Dances.Move3)
