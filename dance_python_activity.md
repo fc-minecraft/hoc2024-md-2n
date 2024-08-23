@@ -21,7 +21,7 @@ The function *hoc.dance()* is used to set the dance move you want performed. It 
 hoc.dance(Dance.Move1)
 ```
 ```python-template
-hoc.dances(Dances.Move1)
+hoc.dance(Dances.Move1)
 ```
 
 ## Complete the Challenge 
@@ -37,10 +37,10 @@ hoc.dance(Dance.Move1)
 ```
 
 ```python-template
-hoc.dances(Dances.Move1)
-hoc.dances(Dances.Move2)
-hoc.dances(Dances.Move3)
-hoc.dances(Dances.Move4)
+hoc.dance(Dance.Move1)
+hoc.dance(Dance.Move2)
+hoc.dance(Dance.Move3)
+hoc.dance(Dance.Move4)
 ```
 
 ```package

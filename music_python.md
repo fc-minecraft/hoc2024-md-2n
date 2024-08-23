@@ -36,5 +36,5 @@ hoc.note(Note.Ti)
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/dance#v0.0.70
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.70
 ```

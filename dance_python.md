@@ -17,8 +17,8 @@ hoc.dance(Dance.Move6)
 for i in range(3):
     hoc.dance(Dance.Move1)
 hoc.dance(Dance.Move2)
-hoc.dance(Dances.Move3)
-hoc.dance(Dances.Move4)
+hoc.dance(Dance.Move3)
+hoc.dance(Dance.Move4)
 ```
 
 ```package
