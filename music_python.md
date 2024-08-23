@@ -30,7 +30,7 @@ hoc.drums(Drums.Slow)
 hoc.note(Note.So)
 hoc.add_instrument(Instrument.Synth)
 hoc.note(Note.La)
-hoc.drums(Drums.None)
+hoc.drums(Drums.Stop)
 hoc.note(Note.Ti)
 ```
 
