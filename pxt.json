@@ -8,21 +8,13 @@
     },
     "files": [
         "README.md",
-        "music.md",
         "tutorial-info-cache.json",
-        "dance.md",
         "costume.md",
         "setdesign.md",
         "no_code.md",
         "tutorial.md",
         "setdesignA.md",
-        "costumeA.md",
-        "danceA.md",
-        "musicA.md",
-        "dance_python.md",
-        "music_python_activity.md",
-        "music_python.md",
-        "dance_activity_python.md"
+        "costumeA.md"
     ],
     "testFiles": [],
     "public": true,
