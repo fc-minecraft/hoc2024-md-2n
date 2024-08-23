@@ -73,6 +73,7 @@ hoc.note(Note.Ti)
 ## Complete the Challenge
 Now that you know how to use the different functions, see if you could recreate the song that Musician Andi is playing.
 
+```python
 *hoc.add_instrument()* and *hoc.remove_instrument()* parameters:
 Instrument.Synth, Instrument.Xylophone, Instrument.Guitar, Instrument.Flute, Instrument.Bells, Instrument.Bass, Instrument.Piano, Instrument.Villager
 
@@ -81,8 +82,9 @@ Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
 
 *hoc.drums()* parameters
 Drums.Fast, Drums.Medium, Drums.Slow, Drums.None.
+```
 
-```python
+```python-template
 hoc.add_instrument(Instrument.Piano)
 hoc.drums(Drums.Fast)
 hoc.note(Note.Do)

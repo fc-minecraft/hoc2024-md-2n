@@ -21,7 +21,8 @@ Drums.Fast, Drums.Medium, Drums.Slow, Drums.None.
 ```python-template
 hoc.add_instrument(Instrument.Piano)
 hoc.drums(Drums.Fast)
-hoc.note(Note.Do)
+for i in range(3):
+    hoc.note(Note.Do)
 hoc.note(Note.Re)
 hoc.drums(Drums.Medium)
 hoc.note(Note.Mi)
