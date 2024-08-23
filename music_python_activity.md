@@ -102,5 +102,5 @@ hoc.note(Note.Ti)
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.55
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.56
 ```
