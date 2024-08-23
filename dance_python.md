@@ -4,41 +4,21 @@
 
 # Choreograph a Dance
 
-## Dance Instructor Welsen's Challenge @unplugged
-Help Instructor Welsen finish choreographing their dance return. Let's first learn all the dance moves.
-
-[SOME DANCING GIF]
-
-## Choreographing the dance
-The function *hoc.dance()* is used to set the dance move you want performed. It takes a single parameter that defines the move. 
+## Dance like no one's watching
+The Agent needs help choreographing a dance sequence for the show. Use the *hoc.dance()* function to sequence a dance choreography for the Agent.
 
 ```python
-# Available parameters are:
-# Dance.Move1 (golem gallop)
-# Dance.Move2 (wither wave)
-# Dance.Move3 (shulker shuffle)
-# Dance.Move4 (mushroom march)
-```
-```python-template
-hoc.dances(Dances.Move1)
-```
-
-## Complete the Challenge 
-Now that you know how to use the *hoc.dance()* function, see if you could figure out the order of the final 4 dance moves Instructor Welsen needs to finish his choreography.
-
-```python
-# Available parameters are:
-# Dance.Move1 (golem gallop)
-# Dance.Move2 (wither wave)
-# Dance.Move3 (shulker shuffle)
-# Dance.Move4 (mushroom march)
+# *hoc.dance()* can use the following dances.
+# Dance.Move1, Dance.Move2, Dance.Move3 all the way through Dance.Move14
+hoc.dance(Dance.Move1)
 ```
 
 ```python-template
-hoc.dances(Dances.Move1)
-hoc.dances(Dances.Move2)
-hoc.dances(Dances.Move3)
-hoc.dances(Dances.Move4)
+for i in range(3):
+    hoc.dance(Dance.Move1)
+hoc.dance(Dance.Move2)
+hoc.dance(Dances.Move3)
+hoc.dance(Dances.Move4)
 ```
 
 ```package
