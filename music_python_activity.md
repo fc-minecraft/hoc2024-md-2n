@@ -1,5 +1,5 @@
 ### @flyoutOnly true
-### @hideIteration true
+### @hideIteration false
 ### @explicitHints true
 
 # Compose the Music
@@ -12,24 +12,9 @@ Let's create music using coding! Musician Andi is challenging you to recreate th
 
 ## Using instruments
 
-Let's first learn how to add instruments and play notes. All code needs to start with the *hoc.add_instrument()* function. This function sets what instrument will be playing. Then you could define what notes you want to play using the *hoc.note()* function. Try running the example code.
+Let's first learn how to add instruments and play notes. All code needs to start with the ``||hoc.add_instrument()||`` function. This function sets what instrument will be playing. Then you could define what notes you want to play using the ``||hoc.note()||`` function. Try running the example code.
 
 ```python
-# available parameters:
-# Instrument.Synth, Instrument.Xylophone, Instrument.Guitar, Instrument.Flute, Instrument.Bells, Instrument.Bass, Instrument.Piano, Instrument.Villager
-hoc.add_instrument(Instrument.Synth)
-hoc.remove_instrument(Instrument.Synth)
-
-# available parameters:
-# Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
-hoc.note(Note.Do)
-
-# available parameters:
-# Drums.Slow, Drums.Medium, or Drums.Fast, Drums.None
-hoc.drums(Drums.Slow)
-```
-
-```python-template
 hoc.add_instrument(Instrument.Piano)
 hoc.note(Note.Do)
 hoc.note(Note.Re)
@@ -46,15 +31,9 @@ You can use any of the following 8 instruments:
 Instrument.Synth, Instrument.Xylophone, Instrument.Guitar, Instrument.Flute, Instrument.Bells, Instrument.Bass, Instrument.Piano, Instrument.Villager
 
 ## Removing instruments
-You can also remove instruments using the *hoc.remove_instrument()* function or add new ones at any point in your song. The example code will begin by playing the Piano, then replace the Piano with a Guitar, and then add the Synth while the Guitar is still playing.
+You can also remove instruments using the ``||hoc.remove_instrument()||`` function or add new ones at any point in your song. The example code will begin by playing the Piano, then replace the Piano with a Guitar, and then add the Synth while the Guitar is still playing.
 
 ```python
-# available parameters:
-# Instrument.Synth, Instrument.Xylophone, Instrument.Guitar, Instrument.Flute, Instrument.Bells, Instrument.Bass, Instrument.Piano, Instrument.Villager
-hoc.remove_instrument(Instrument.Synth)
-```
-
-```python-template
 hoc.add_instrument(Instrument.Piano)
 hoc.note(Note.Do)
 hoc.note(Note.Re)
@@ -69,67 +48,36 @@ hoc.note(Note.Ti)
 ```
 
 ## Adding drums
-You can also add a drum beat to your song by using the *hoc.drums()* function. You can set the drums to be slow, medium, fast or disable them with stop.
+You can also add a drum beat to your song by using the ``||hoc.drums()||`` function. You can set the drums to be *Slow*, *Medium*, *Fast* or disable them with *Stop*.
 
 ```python
-# available parameters:
-# Drums.Slow, Drums.Medium, or Drums.Fast, Drums.None
-hoc.drums(Drums.Slow)
-```
-
-```python-template
 hoc.add_instrument(Instrument.Piano)
-hoc.drums(Drums.Fast)
 hoc.note(Note.Do)
 hoc.note(Note.Re)
-hoc.drums(Drums.Medium)
-hoc.note(Note.Mi)
-hoc.add_instrument(Instrument.Guitar)
-hoc.remove_instrument(Instrument.Piano)
-hoc.note(Note.Fa)
 hoc.drums(Drums.Slow)
+hoc.note(Note.Mi)
+hoc.note(Note.Fa)
 hoc.note(Note.So)
-hoc.add_instrument(Instrument.Synth)
 hoc.note(Note.La)
-hoc.drums(Drums.None)
 hoc.note(Note.Ti)
 ```
+
 
 ## Complete the challenge
 Now that you know how to use the different functions, see if you could recreate the song that Musician Andi is playing.
 
-```python
-# available parameters:
-# Instrument.Synth, Instrument.Xylophone, Instrument.Guitar, Instrument.Flute, Instrument.Bells, Instrument.Bass, Instrument.Piano, Instrument.Villager
-hoc.add_instrument(Instrument.Synth)
-hoc.remove_instrument(Instrument.Synth)
+#### ~ tutorialhint
+hoc.add_instrument() | hoc.remove_instrument()  
+Available instruments:  
+Instrument.Synth, Instrument.Xylophone, Instrument.Guitar, Instrument.Flute, Instrument.Bells, Instrument.Bass, Instrument.Piano, Instrument.Villager
 
-# available parameters:
-# Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
-hoc.note(Note.Do)
+hoc.note()  
+Available notes:  
+Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
 
-# available parameters:
-# Drums.Slow, Drums.Medium, or Drums.Fast, Drums.None
-hoc.drums(Drums.Slow)
-```
-
-```python-template
-hoc.add_instrument(Instrument.Piano)
-hoc.drums(Drums.Fast)
-hoc.note(Note.Do)
-hoc.note(Note.Re)
-hoc.drums(Drums.Medium)
-hoc.note(Note.Mi)
-hoc.add_instrument(Instrument.Guitar)
-hoc.remove_instrument(Instrument.Piano)
-hoc.note(Note.Fa)
-hoc.drums(Drums.Slow)
-hoc.note(Note.So)
-hoc.add_instrument(Instrument.Synth)
-hoc.note(Note.La)
-hoc.drums(Drums.Stop)
-hoc.note(Note.Ti)
-```
+hoc.drums()  
+Available drums:  
+Drums.Slow, Drums.Medium, or Drums.Fast, Drums.None
 
 
 ```package
