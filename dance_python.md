@@ -8,9 +8,9 @@
 The Agent needs help choreographing a dance sequence for the show. Use the *hoc.dance()* function to sequence a dance choreography for the Agent.
 
 ```python
-# *hoc.dance()* can use the following dances.
+# available parameters:
 # Dance.Move1, Dance.Move2, Dance.Move3 all the way through Dance.Move14
-hoc.dance(Dance.Move1)
+hoc.dance(Dance.Move6)
 ```
 
 ```python-template
