@@ -5,36 +5,36 @@
 # Compose the music
 
 ## Step 1
-Let's compose some music! First select an ``||hoc2024:instrument||`` and a ``||hoc2024:drum||`` beat. Then use the ``||hoc2024:note||`` block to create the song. 
+Let's compose some music! You can add and remove instruments using the ``||hoc:add_instrument||`` and ``||hoc:remove_instrument||`` blocks and start a drum beat using the ``||hoc:drum||`` block. Then use the ``||hoc:note||`` block to create the song. 
 
 #### ~ tutorialhint
-You can switch the ``||hoc2024:instrument||`` and/or ``||hoc2024:drum||`` at any time by adding a new one to your sequence.
+You can add or remove an instrument at any time throughout your music. If you define multiple instruments, they will all play the same note at the same time.
 
 ```ghost
-    hoc2024.instrument()
-    hoc2024.remove_instrument()
-    hoc2024.key()
-    hoc2024.drums()
+    hoc.add_instrument()
+    hoc.remove_instrument()
+    hoc.note()
+    hoc.drums()
     for (let i = 0; i < 5; i++) {}
 ```
 ```template
-    hoc2024.instrument(Instruments.Piano)
-    hoc2024.instrument(Instruments.Guitar)
-    hoc2024.drums(Drums.Medium)    
-    hoc2024.key(Keys.Do)
-    hoc2024.key(Keys.Re)
-    hoc2024.key(Keys.Mi)
-    hoc2024.remove_instrument(Instruments.Guitar)
-    hoc2024.instrument(Instruments.Synth)
-    hoc2024.drums(Drums.Fast)  
+    hoc.add_instrument(Instrument.Piano)
+    hoc.add_instrument(Instrument.Guitar)
+    hoc.drums(Drums.Medium)    
+    hoc.note(Note.Do)
+    hoc.note(Note.Re)
+    hoc.note(Note.Mi)
+    hoc.remove_instrument(Instrument.Guitar)
+    hoc.add_instrument(Instrument.Synth)
+    hoc.drums(Drums.Fast)  
     for (let i = 0; i < 5; i++) {
-        hoc2024.key(Keys.Fa)
+        hoc.note(Note.Fa)
     }  
-    hoc2024.key(Keys.So)
-    hoc2024.key(Keys.La)
-    hoc2024.key(Keys.Ti)
+    hoc.note(Note.So)
+    hoc.note(Note.La)
+    hoc.note(Note.Ti)
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.51
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.55
 ```

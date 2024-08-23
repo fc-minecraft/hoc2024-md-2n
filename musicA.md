@@ -8,10 +8,10 @@
 IGNORE ME, I'M NOT REAL YET
 
 ```ghost
-    hoc2024.instrument()
-    hoc2024.remove_instrument()
-    hoc2024.key()
-    hoc2024.drums()
+    hoc.add_instrument()
+    hoc.remove_instrument()
+    hoc.note()
+    hoc.drums()
     for (let i = 0; i < 5; i++) {}
 ```
 ```template
@@ -19,5 +19,5 @@ IGNORE ME, I'M NOT REAL YET
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.50
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.55
 ```
