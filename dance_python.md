@@ -7,16 +7,18 @@
 ## Dance like no one's watching
 The Agent needs help choreographing a dance sequence for the show. Use the *hoc.dance()* function to sequence a dance choreography for the Agent.
 
-*hoc.dance()* can use the following dances.
-Dance.Move1, Dance.Move2, Dance.Move3 all the way through Dance.Move14
-
+```python
+# *hoc.dance()* can use the following dances.
+# Dance.Move1, Dance.Move2, Dance.Move3 all the way through Dance.Move14
+hoc.dance(Dance.Move1)
+```
 
 ```python-template
 for i in range(3):
-    hoc.dances(Dances.Move1)
-hoc.dances(Dances.Move2)
-hoc.dances(Dances.Move3)
-hoc.dances(Dances.Move4)
+    hoc.dance(Dance.Move1)
+hoc.dance(Dance.Move2)
+hoc.dance(Dances.Move3)
+hoc.dance(Dances.Move4)
 ```
 
 ```package
