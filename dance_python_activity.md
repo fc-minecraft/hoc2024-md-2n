@@ -16,7 +16,7 @@ Available parameters are:
 Dance.Move1 (golem gallop), Dance.Move2 (wither wave), Dance.Move3 (shulker shuffle), Dance.Move4 (mushroom march)
 
 
-```python
+```python-template
 hoc.dances(Dances.Move1)
 hoc.dances(Dances.Move2)
 hoc.dances(Dances.Move3)
