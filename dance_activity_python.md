@@ -14,7 +14,7 @@ The function *hoc.dance()* is used to set the dance move you want performed. It 
 
 ```python
 Available parameters are:
-Dance.Move1 (golem gallop), Dance.Move2 (wither wave), Dance.Move3 (shulker shuffle"), Dance.Move4 (mushroom march)
+Dance.Move1 (golem gallop), Dance.Move2 (wither wave), Dance.Move3 (shulker shuffle), Dance.Move4 (mushroom march)
 ```
 
 ```python-template
