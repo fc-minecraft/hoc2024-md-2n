@@ -8,8 +8,8 @@
 IGNORE ME, I'M NOT REAL YET
 
 ```ghost
-    hoc.add_instrument()
-    hoc.remove_instrument()
+    hoc._add_instrument_activity()
+    hoc._remove_instrument_activity()
     hoc.note()
     hoc.drums()
     for (let i = 0; i < 5; i++) {}

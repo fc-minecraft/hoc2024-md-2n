@@ -1,47 +1,34 @@
 ### @flyoutOnly true
-### @hideIteration true
+### @hideIteration false
 ### @explicitHints true
 
 # Choreograph a Dance
 
 ## Dance Instructor Welsen's Challenge @unplugged
-Help Instructor Welsen finish choreographing their dance return. Let's first learn all the dance moves.
+Help Instructor Welsen finish choreographing their dance. Let's first learn the dance moves.
 
 [SOME DANCING GIF]
 
 ## Choreographing the dance
-The function *hoc.dance()* is used to set the dance move you want performed. It takes a single parameter that defines the move. 
+The function ``||hoc.dance()||`` is used to set the dance move you want performed. It takes a single parameter that defines the move. Try running the following code. 
 
 ```python
-# available parameters:
-# Dance.Move1 (golem gallop)
-# Dance.Move2 (wither wave)
-# Dance.Move3 (shulker shuffle)
-# Dance.Move4 (mushroom march)
-hoc.dance(Dance.Move1)
-```
-```python-template
-hoc.dance(Dances.Move1)
-```
-
-## Complete the Challenge 
-Now that you know how to use the *hoc.dance()* function, see if you could figure out the order of the final 4 dance moves Instructor Welsen needs to finish his choreography.
-
-```python
-# Available parameters are:
-# Dance.Move1 (golem gallop)
-# Dance.Move2 (wither wave)
-# Dance.Move3 (shulker shuffle)
-# Dance.Move4 (mushroom march)
-hoc.dance(Dance.Move1)
-```
-
-```python-template
 hoc.dance(Dance.Move1)
 hoc.dance(Dance.Move2)
 hoc.dance(Dance.Move3)
 hoc.dance(Dance.Move4)
 ```
+
+## Complete the Challenge 
+Now that you know how to use the ``||hoc.dance()||`` function, see if you could figure out the order of the final 4 dance moves Instructor Welsen needs to finish his choreography. See the hint for all available dances.
+
+#### ~ tutorialhint
+hoc.dance()
+Available dances:
+Dance.Move1, Dance.Move2, Dance.Move3, Dance.Move4
+
+
+
 
 ```package
 hoc2024-ts=github:ReWrite-Media/hoc2024-ts/dance#v0.0.70

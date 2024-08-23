@@ -5,7 +5,7 @@
 # Choreograph a Dance
 
 ## Dance like no one's watching
-The Agent needs help choreographing a dance sequence for the show. Use the *hoc.dance()* function to sequence a dance choreography for the Agent.
+The Agent needs help choreographing a dance sequence for the show. Use the *hoc.dance()* function to sequence a dance choreography for the Agent. See the hint for all available dances.
 
 ```python
 # available parameters:
