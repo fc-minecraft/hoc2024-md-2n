@@ -33,5 +33,5 @@ hoc.costume(HeadWear.Knight_Helmet, MidWear.Construction_Shirt, LowerWear.Swim_S
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/costume#v0.0.96
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/costume#v0.0.103
 ```

@@ -23,5 +23,4 @@ hoc.dance(Dance.Move4)
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/dance#v0.0.96
-```
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/dance#v0.0.103

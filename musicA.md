@@ -5,7 +5,7 @@
 # Compose the music
 
 ## Step 1
-IGNORE ME, I'M NOT REAL YET
+MISSING DESCRIPTION
 
 ```ghost
     hoc._add_instrument_activity()
@@ -19,5 +19,5 @@ IGNORE ME, I'M NOT REAL YET
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.95
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.103
 ```

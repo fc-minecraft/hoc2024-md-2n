@@ -29,5 +29,5 @@ HeadWear.Astronaut_Legs, HeadWear.Cowboy_Pants, HeadWear.Knight_Legs
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/costume#v0.0.96
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/costume#v0.0.103
 ```

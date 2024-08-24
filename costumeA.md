@@ -12,7 +12,7 @@ The 3 sets of costumes the NPC is looking for are: ``||hoc:Cowboy||``, ``||hoc:A
 
 
 ```ghost
-    hoc._costume_activity()
+    hoc._costume_activity(HeadWear_Activity.Knight_Helmet, MidWear_Activity.Knight_Top, LowerWear_Activity.Knight_Legs)
 ```
 ```template
     hoc._costume_activity(HeadWear_Activity.Knight_Helmet, MidWear_Activity.Knight_Top, LowerWear_Activity.Knight_Legs)
@@ -21,5 +21,5 @@ The 3 sets of costumes the NPC is looking for are: ``||hoc:Cowboy||``, ``||hoc:A
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/costume#v0.0.94
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/costume#v0.0.103
 ```
