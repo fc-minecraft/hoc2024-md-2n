@@ -22,7 +22,11 @@
         "music_python.md",
         "music_python_activity.md",
         "dance_python_activity.md",
-        "dance_python.md"
+        "dance_python.md",
+        "costume_python_activity.md",
+        "costume_python.md",
+        "setdesign_python_activity.md",
+        "setdesign_python.md"
     ],
     "testFiles": [],
     "public": true,
