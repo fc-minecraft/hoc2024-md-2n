@@ -4,13 +4,8 @@
 
 # Choreograph a Dance
 
-## Dance Instructor Welsen's Challenge @unplugged
-Help Instructor Welsen finish choreographing their dance. Let's first learn the dance moves.
-
-[SOME DANCING GIF]
-
 ## Choreographing the dance
-The function ``||hoc.dance()||`` is used to set the dance move you want performed. It takes a single parameter that defines the move. Try running the following code. 
+Help Instructor Welsen finish choreographing their dance. The function ``||hoc:hoc.dance()||`` is used to set the dance move you want performed. It takes a single parameter that defines the move. Try running the following code. 
 
 ```python
 hoc.dance(Dance.Move1)
@@ -20,10 +15,10 @@ hoc.dance(Dance.Move4)
 ```
 
 ## Complete the Challenge 
-Now that you know how to use the ``||hoc.dance()||`` function, see if you could figure out the order of the final 4 dance moves Instructor Welsen needs to finish his choreography. See the hint for all available dances.
+Now that you know how to use the ``||hoc:hoc.dance()||`` function, see if you could figure out the order of the final 4 dance moves Instructor Welsen needs to finish his choreography. See the hint for all available dances.
 
 #### ~ tutorialhint
-hoc.dance()
+**hoc.dance()**
 Available dances:
 Dance.Move1, Dance.Move2, Dance.Move3, Dance.Move4
 
@@ -31,5 +26,5 @@ Dance.Move1, Dance.Move2, Dance.Move3, Dance.Move4
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/dance#v0.0.70
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/dance#v0.0.96
 ```
