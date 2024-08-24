@@ -56,7 +56,7 @@ hoc.note(Note.Ti)
 
 
 ## Complete the challenge
-Now that you know how to use the different functions, see if you could recreate the song that Musician Andi is playing. See the hint for all available instruments.
+Now that you know how to use the different functions, see if you could recreate the song that Musician Andi is playing. See the hint for all available music parameters.
 
 #### ~ tutorialhint
 **hoc.add_instrument()** | **hoc.remove_instrument()**

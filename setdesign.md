@@ -4,7 +4,7 @@
 
 # Design the sets
 
-## Step 1
+## Design the sets
 Let's design the sets! Choose which ``||hoc:biome, time, and weather||`` should be displayed for each portion of the show.
 
 #### ~ tutorialhint

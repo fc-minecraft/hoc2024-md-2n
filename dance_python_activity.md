@@ -4,6 +4,10 @@
 
 # Choreograph a Dance
 
+```python-template
+hoc.dance(Dance.Move1)
+```
+
 ## Choreographing the dance
 Help Instructor Welsen finish choreographing their dance. The function ``||hoc:hoc.dance()||`` is used to set the dance move you want performed. It takes a single parameter that defines the move. Try running the following code. 
 
@@ -15,7 +19,7 @@ hoc.dance(Dance.Move4)
 ```
 
 ## Complete the Challenge 
-Now that you know how to use the ``||hoc:hoc.dance()||`` function, see if you could figure out the order of the final 4 dance moves Instructor Welsen needs to finish his choreography. See the hint for all available dances.
+Now that you know how to use the ``||hoc:hoc.dance()||`` function, see if you could figure out the order of the final 4 dance moves Instructor Welsen needs to finish his choreography. See the hint for all available dance parameters.
 
 #### ~ tutorialhint
 **hoc.dance()**

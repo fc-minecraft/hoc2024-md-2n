@@ -4,6 +4,10 @@
 
 # Choose the costumes
 
+```python-template
+hoc.costume(HeadWear.Knight_Helmet, MidWear.Knight_Top, LowerWear.Knight_Legs)
+```
+
 ## Choosing the costumes
 Help Designer Ning finish designing the costumes. The function ``||hoc:hoc.costume()||`` is used to set the ``||hoc:head, body, and legs||`` of the costumes. It takes three separate parameters that define the three types of costumes. Try running the following code. 
 
@@ -12,7 +16,7 @@ hoc.costume(HeadWear.Knight_Helmet, MidWear.Knight_Top, LowerWear.Knight_Legs)
 ```
 
 ## Complete the Challenge 
-Now that you know how to use the ``||hoc:hoc.costume()||`` function, help Ning finish designing the costumes so she could get you the key. See the hint for all available costumes.
+Now that you know how to use the ``||hoc:hoc.costume()||`` function, help Ning finish designing the costumes so she could get you the key. See the hint for all available costumes parameters.
 
 #### ~ tutorialhint
 **hoc.costume()**
