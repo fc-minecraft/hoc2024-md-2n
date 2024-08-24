@@ -5,18 +5,23 @@
 # Compose the Music
 
 ## Create your own Music
-The Agent needs help composing music for its show. Use the following functions to create music for the Agent. See the hint for all available instruments.
+The Agent needs help composing music for its show. Use the following functions to create music for the Agent. See the hint for all available parameters.
+
+``||hoc:hoc.add_instrument()||``
+``||hoc:hoc.remove_instrument()||``
+``||hoc:hoc.note()||``
+``||hoc:hoc.drums()||``
 
 #### ~ tutorialhint
-hoc.add_instrument() | hoc.remove_instrument()  
+**hoc.add_instrument()** | **hoc.remove_instrument()**
 Available instruments:  
-Instrument.Synth, Instrument.Xylophone, Instrument.Guitar, Instrument.Flute, Instrument.Bells, Instrument.Bass, Instrument.Piano, Instrument.Villager
+Instrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar, Instrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone
 
-hoc.note()  
+**hoc.note()**
 Available notes:  
 Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
 
-hoc.drums()  
+**hoc.drums()**
 Available drums:  
 Drums.Slow, Drums.Medium, or Drums.Fast, Drums.None
 
