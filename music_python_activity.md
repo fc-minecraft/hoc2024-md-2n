@@ -4,8 +4,11 @@
 
 # Compose the Music
 
-## Using instruments
+```python-template
+hoc.add_instrument(Instrument.Xylophone)
+```
 
+## Using instruments
 Musician Andi is challenging you to recreate the music they're playing. Let's first learn how to add instruments and play notes. All code needs to start with the ``||hoc:hoc.add_instrument()||`` function. This function sets what instrument will be playing. Then you could define what notes you want to play using the ``||hoc:hoc.note()||`` function. Try running the following code.
 
 ```python
@@ -70,5 +73,5 @@ Drums.Slow, Drums.Medium, or Drums.Fast, Drums.None
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.70
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.98
 ```
