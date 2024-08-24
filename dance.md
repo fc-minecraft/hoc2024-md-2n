@@ -5,7 +5,7 @@
 # Choreograph a Dance
 
 ## Step 1
-Let's dance! Sequence together your ``||hoc2024:dance steps||`` to create a dance for the Agent to do.
+Let's dance! Sequence together your ``||hoc:dance steps||`` to create a dance for the Agent to do.
 
 #### ~ tutorialhint
 You can use a ``||loops:for loop||`` instead of multiple blocks to repeat the same dance move.
