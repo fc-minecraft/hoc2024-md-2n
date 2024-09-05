@@ -16,7 +16,7 @@ hoc.note(Note.Ti)
 ```
 
 ## Using instruments
-We need to unlock the door by playing the correct song. All code needs to start with the ``||hoc:hoc.add_instrument()||`` function. This function sets what instrument will be playing. Then you could define what notes you want to play using the ``||hoc:hoc.note()||`` function.
+We need to unlock the door by playing the correct song. All code needs to start with the ``||hoc:hoc.add_instrument()||`` function. This function sets what instrument will be playing. Then you could define what notes you want to play using the ``||hoc:hoc.note()||`` function. See the hint for all available parameters.
 
 #### ~ tutorialhint
 First add the ``||agent:Instrument.Guitar||`` by using the ``||hoc:hoc.add_instrument()||`` function, then play the ``||agent:Note.Do||`` ``||agent:Note.So||`` ``||agent:Note.La||`` ``||agent:Note.Fa||`` notes by using the ``||hoc:hoc.note()||`` function.

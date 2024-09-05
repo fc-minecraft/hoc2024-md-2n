@@ -13,7 +13,7 @@ hoc.note(Note.Fa)
 ```
 
 ## Using instruments
-That didn't quite work, lets make the song a bit more complex by adding the ``||agent:Instrument.Bell||`` instrument and then replaying the four notes.
+That didn't quite work, lets make the song a bit more complex by adding the ``||agent:Instrument.Bell||`` instrument and then replaying the four notes. See the hint for all available parameters.
 
 #### ~ tutorialhint
 Now add the ``||agent:Instrument.Bell||`` instrument to the end of the code using the ``||hoc:hoc.add_instrument()||`` function, then play the ``||agent:Note.Do||`` ``||agent:Note.So||`` ``||agent:Note.La||`` ``||agent:Note.Fa||`` notes again by using the ``||hoc:hoc.note()||`` function.

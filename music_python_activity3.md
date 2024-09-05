@@ -18,7 +18,7 @@ hoc.note(Note.Fa)
 ```
 
 ## Using instruments
-The song is still missing something. Let's start with a ``||agent:Drums.Medium||`` tempo using the ``||hoc:hoc.drums()||`` function, and end the song by removing the ``||agent:Instrument.Bells||`` instrument and playing the ``||agent:Note.Do||`` ``||hoc:hoc.note()||``.
+The song is still missing something. Let's start with a ``||agent:Drums.Medium||`` tempo using the ``||hoc:hoc.drums()||`` function, and end the song by removing the ``||agent:Instrument.Bells||`` instrument and playing the ``||agent:Note.Do||`` ``||hoc:hoc.note()||``. See the hint for all available parameters.
 
 #### ~ tutorialhint
 Add the ``||hoc:hoc.drums()||`` function to the beginning of the code and set it to ``||agent:Drums.Medium||`` then remove the ``||agent:Instrument.Bells||`` at the end using the ``||hoc:hoc.remove_instrument()||`` function and add a final ``||agent:Note.Do||`` ``||hoc:hoc.note()||``
