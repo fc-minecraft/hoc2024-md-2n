@@ -23,19 +23,19 @@ The song is still missing something. Let's start with a ``||agent:Drums.Medium||
 #### ~ tutorialhint
 Add the ``||hoc:hoc.drums()||`` function to the beginning of the code and set it to ``||agent:Drums.Medium||`` then remove the ``||agent:Instrument.Bells||`` at the end using the ``||hoc:hoc.remove_instrument()||`` function and add a final ``||agent:Note.Do||`` ``||hoc:hoc.note()||``
 
-**hoc.add_instrument()** | **hoc.remove_instrument()**
+**hoc.add_instrument()** | **hoc.remove_instrument()**  
 Available instruments:  
 Instrument.Xylophone, Instrument.Guitar, Instrument.Bells
 
-**hoc.note()**
+**hoc.note()**  
 Available notes:  
 Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
 
-**hoc.drums()**
+**hoc.drums()**  
 Available drums:  
 Drums.Slow, Drums.Medium, or Drums.Fast, Drums.None
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.104
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.105
 ```

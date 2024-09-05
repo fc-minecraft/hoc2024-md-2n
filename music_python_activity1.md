@@ -21,11 +21,11 @@ We need to unlock the door by playing the correct song. All code needs to start 
 #### ~ tutorialhint
 First add the ``||agent:Instrument.Guitar||`` by using the ``||hoc:hoc.add_instrument()||`` function, then play the ``||agent:Note.Do||`` ``||agent:Note.So||`` ``||agent:Note.La||`` ``||agent:Note.Fa||`` notes by using the ``||hoc:hoc.note()||`` function.
 
-**hoc.add_instrument()**
+**hoc.add_instrument()**  
 Available instruments:  
 Instrument.Xylophone, Instrument.Guitar, Instrument.Bells
 
-**hoc.note()**
+**hoc.note()**  
 Available notes:  
 Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
 

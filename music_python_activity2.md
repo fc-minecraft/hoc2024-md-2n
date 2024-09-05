@@ -18,11 +18,11 @@ That didn't quite work, lets make the song a bit more complex by adding the ``||
 #### ~ tutorialhint
 Now add the ``||agent:Instrument.Bell||`` instrument to the end of the code using the ``||hoc:hoc.add_instrument()||`` function, then play the ``||agent:Note.Do||`` ``||agent:Note.So||`` ``||agent:Note.La||`` ``||agent:Note.Fa||`` notes again by using the ``||hoc:hoc.note()||`` function.
 
-**hoc.add_instrument()**
+**hoc.add_instrument()**  
 Available instruments:  
 Instrument.Xylophone, Instrument.Guitar, Instrument.Bells
 
-**hoc.note()**
+**hoc.note()**  
 Available notes:  
 Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
 
