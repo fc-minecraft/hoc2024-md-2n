@@ -34,5 +34,5 @@ Astronaut_Legs, Ballerina_Tutu, Black_Boots, Construction_Pants, Cowboy_Pants, K
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/costume#v0.0.103
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.105
 ```

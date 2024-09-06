@@ -1,5 +1,5 @@
 ### @flyoutOnly true
-### @hideIteration true
+### @hideIteration false
 ### @explicitHints true
 
 # Compose the Music
@@ -31,5 +31,5 @@ Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.104
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/music#v0.0.105
 ```
