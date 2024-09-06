@@ -22,14 +22,14 @@ Time to pick out some costumes! Sequence together the different ``||hoc:head, bo
 
 
 #### ~ tutorialhint
-**hoc.costume()**
-Available HeadWear parameters:
+**hoc.costume()**  
+Available HeadWear parameters:  
 Astronaut_Helmet, Ballerina_Crown, Baseball_Hat, Construction_Helmet, Cowboy_Hat, Knight_Helmet, Reading_Glasses, Sun_Glasses, Superstar_Hat
 
-Available MidWear parameters:
+Available MidWear parameters:  
 Astronaut_Top, Ballerina_Shirt, Basketball_Jersey, Construction_Shirt, Cowboy_Shirt, Green_TShirt, Knight_Top, Superstar_Shirt, Varsity_Jacket
 
-Available LowerWear parameters:
+Available LowerWear parameters:  
 Astronaut_Legs, Ballerina_Tutu, Black_Boots, Construction_Pants, Cowboy_Pants, Khaki_Shorts, Knight_Legs, Superstar_Pants, Swim_Shorts
 
 
