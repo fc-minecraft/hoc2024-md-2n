@@ -42,5 +42,5 @@ Available drums:
 Drums.Slow, Drums.Medium, or Drums.Fast, Drums.None
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/music#v0.0.105
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/music#v0.0.107
 ```
