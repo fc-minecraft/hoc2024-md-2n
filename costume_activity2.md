@@ -15,5 +15,5 @@ It looks like there's a second lock made of iron. You'll need to figure out whic
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.108
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.109
 ```
