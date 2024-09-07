@@ -1,6 +1,6 @@
 {
     "name": "hoc2024-md",
-    "version": "0.0.63",
+    "version": "0.0.64",
     "description": "",
     "dependencies": {
         "core": "*",
