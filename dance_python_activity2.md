@@ -6,6 +6,9 @@
 
 ```python-template
 hoc.armorstand_dance(ArmorStand.One, Dance.Move1)
+hoc.armorstand_dance(ArmorStand.Two, Dance.Move1)
+hoc.armorstand_dance(ArmorStand.Three, Dance.Move1)
+hoc.armorstand_dance(ArmorStand.Four, Dance.Move1)
 ```
 
 ## Choreographing the dance

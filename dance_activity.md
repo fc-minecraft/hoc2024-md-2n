@@ -13,9 +13,9 @@ Match the armor stand with the corresponding poster on the wall. Use the ``||hoc
 ```
 ```template
     hoc._dance_activity(ArmorStand.One, _Dances_Actvity.Move1)
-    hoc._dance_activity(ArmorStand.One, _Dances_Actvity.Move1)
-    hoc._dance_activity(ArmorStand.One, _Dances_Actvity.Move1)
-    hoc._dance_activity(ArmorStand.One, _Dances_Actvity.Move1)
+    hoc._dance_activity(ArmorStand.Two, _Dances_Actvity.Move1)
+    hoc._dance_activity(ArmorStand.Three, _Dances_Actvity.Move1)
+    hoc._dance_activity(ArmorStand.Four, _Dances_Actvity.Move1)
 ```
 
 ```package
