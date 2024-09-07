@@ -15,8 +15,9 @@ The lock needs the ``||agent:Knight||`` costume to open. Set the head, body and 
     hoc._costume_activity(HeadWear_Activity.Knight_Helmet, MidWear_Activity.Knight_Top, LowerWear_Activity.Knight_Legs)
 ```
 ```template     
+    \\
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.109
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.110
 ```

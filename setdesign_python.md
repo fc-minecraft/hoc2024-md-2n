@@ -31,5 +31,5 @@ Available Climate parameters
 Climate.Clear, Climate.Snow, Climate.Rain, Climate.Thunderstorm
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/set#v0.0.107
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/set#v0.0.110
 ```

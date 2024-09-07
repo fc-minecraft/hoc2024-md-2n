@@ -26,5 +26,5 @@ LowerWear.Astronaut_Legs, LowerWear.Cowboy_Pants, LowerWear.Knight_Legs
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.109
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.110
 ```

@@ -28,5 +28,5 @@ Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/music#v0.0.107
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/music#v0.0.110
 ```

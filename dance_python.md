@@ -22,5 +22,5 @@ Dance.Move1, Dance.Move2, Dance.Move3 all the way through Dance.Move11
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/dance#v0.0.107
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/dance#v0.0.110
 ```

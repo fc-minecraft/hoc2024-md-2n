@@ -16,5 +16,5 @@ null
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.103
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.110
 ```

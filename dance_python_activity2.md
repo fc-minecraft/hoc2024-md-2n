@@ -6,9 +6,9 @@
 
 ```python-template
 hoc.armorstand_dance(ArmorStand.One, Dance.Move1)
-hoc.armorstand_dance(ArmorStand.Two, Dance.Move1)
-hoc.armorstand_dance(ArmorStand.Three, Dance.Move1)
-hoc.armorstand_dance(ArmorStand.Four, Dance.Move1)
+hoc.armorstand_dance(ArmorStand.One, Dance.Move2)
+hoc.armorstand_dance(ArmorStand.One, Dance.Move3)
+hoc.armorstand_dance(ArmorStand.One, Dance.Move4)
 ```
 
 ## Choreographing the dance
@@ -26,5 +26,5 @@ Dance.Move1, Dance.Move2, Dance.Move3, Dance.Move4
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/dance#v0.0.107
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/dance#v0.0.110
 ```

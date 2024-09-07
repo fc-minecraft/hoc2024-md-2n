@@ -23,5 +23,5 @@ Add the ``||bell||`` after the guitar plays it's four notes using the ``||hoc:ad
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/music#v0.0.107
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/music#v0.0.110
 ```
