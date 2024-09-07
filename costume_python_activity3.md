@@ -1,5 +1,5 @@
 ### @flyoutOnly true
-### @hideIteration false
+### @hideIteration true
 ### @explicitHints true
 
 # Choose the costumes
