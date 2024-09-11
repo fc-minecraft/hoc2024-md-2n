@@ -6,13 +6,14 @@
 
 ## Step 1
 The usher needs help! Use the ``||hoc:hoc.raise_hand()||`` function to volunteer to help and start the game. Run the following code:
+```python
+hoc.raise_hand()
+```
 
 #### ~ tutorialhint
 Run the ``||hoc:hoc.raise_hand()||`` function to start the game.
 
-```python
-hoc.raise_hand()
-```
+
 
 
 ```package
