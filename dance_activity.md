@@ -12,12 +12,12 @@ Match the armor stand with the corresponding poster on the wall. Use the ``||hoc
     hoc._dance_activity()
 ```
 ```template
-    hoc._dance_activity(ArmorStand.One, _Dances_Actvity.Move1)
-    hoc._dance_activity(ArmorStand.One, _Dances_Actvity.Move2)
-    hoc._dance_activity(ArmorStand.One, _Dances_Actvity.Move3)
-    hoc._dance_activity(ArmorStand.One, _Dances_Actvity.Move4)
+    hoc._dance_activity(ArmorStand.One, _Dances_Actvity.GolemGallop)
+    hoc._dance_activity(ArmorStand.One, _Dances_Actvity.DolphinDisco)
+    hoc._dance_activity(ArmorStand.One, _Dances_Actvity.WitherWave)
+    hoc._dance_activity(ArmorStand.One, _Dances_Actvity.MushroomMarch)
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/dance#v0.0.110
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/dance#v0.0.111
 ```

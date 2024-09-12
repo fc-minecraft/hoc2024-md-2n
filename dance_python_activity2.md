@@ -5,10 +5,10 @@
 # Choreograph a Dance
 
 ```python-template
-hoc.armorstand_dance(ArmorStand.One, Dance.Move1)
-hoc.armorstand_dance(ArmorStand.One, Dance.Move2)
-hoc.armorstand_dance(ArmorStand.One, Dance.Move3)
-hoc.armorstand_dance(ArmorStand.One, Dance.Move4)
+hoc.armorstand_dance(ArmorStand.One, Dance.DolphinDisco)
+hoc.armorstand_dance(ArmorStand.One, Dance.DolphinDisco)
+hoc.armorstand_dance(ArmorStand.One, Dance.DolphinDisco)
+hoc.armorstand_dance(ArmorStand.One, Dance.DolphinDisco)
 ```
 
 ## Choreographing the dance
@@ -20,11 +20,11 @@ Available armor stands:
 ArmorStand.One, ArmorStand.Two, ArmorStand.Three, ArmorStand.Four
 
 Available dances:  
-Dance.Move1, Dance.Move2, Dance.Move3, Dance.Move4
+Dance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave
 
 
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/dance#v0.0.110
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/dance#v0.0.111
 ```
