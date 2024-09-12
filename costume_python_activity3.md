@@ -14,17 +14,17 @@ One more lock? This must be the last one. Get the code from the diamond lock and
 #### ~ tutorialhint
 **hoc.costume()**  
 Available HeadWear parameters:  
-HeadWear.Astronaut_Helmet, HeadWear.Cowboy_Hat, HeadWear.Knight_Helmet
+HeadWear.Astronaut_Helmet, HeadWear.Cowboy_Hat, HeadWear.Knight_Helmet, HeadWear.Ballerina_Crown, HeadWear.Construction_Helmet
 
 Available MidWear parameters:  
-MidWear.Astronaut_Top, MidWear.Cowboy_Shirt, MidWear.Knight_Top
+MidWear.Astronaut_Top, MidWear.Cowboy_Shirt, MidWear.Knight_Top, MidWear.Ballerina_Shirt, MidWear.Construction_Shirt
 
 Available LowerWear parameters:  
-LowerWear.Astronaut_Legs, LowerWear.Cowboy_Pants, LowerWear.Knight_Legs
+LowerWear.Astronaut_Legs, LowerWear.Cowboy_Pants, LowerWear.Knight_Legs, LowerWear.Ballerina_Tutu, LowerWear.Construction_Pants
 
 
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.110
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.112
 ```
