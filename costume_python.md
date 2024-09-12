@@ -9,7 +9,7 @@ hoc.costume(HeadWear.Knight_Helmet, MidWear.Construction_Shirt, LowerWear.Swim_S
 hoc.costume(HeadWear.Knight_Helmet, MidWear.Construction_Shirt, LowerWear.Swim_Shorts)
 hoc.costume(HeadWear.Knight_Helmet, MidWear.Construction_Shirt, LowerWear.Swim_Shorts)
 hoc.costume(HeadWear.Knight_Helmet, MidWear.Construction_Shirt, LowerWear.Swim_Shorts)
-for i in range(3)
+for i in range(3):
     hoc.costume(HeadWear.Knight_Helmet, MidWear.Construction_Shirt, LowerWear.Swim_Shorts)
 hoc.costume(HeadWear.Knight_Helmet, MidWear.Construction_Shirt, LowerWear.Swim_Shorts)
 hoc.costume(HeadWear.Knight_Helmet, MidWear.Construction_Shirt, LowerWear.Swim_Shorts)
