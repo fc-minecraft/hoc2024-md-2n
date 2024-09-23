@@ -6,10 +6,9 @@
 
 ```python-template
 hoc.add_instrument(Instrument.Guitar)
-hoc.note(Note.Do)
-hoc.note(Note.So)
 hoc.note(Note.La)
-hoc.note(Note.Fa)
+hoc.note(Note.So)
+hoc.note(Note.Do)
 ```
 
 ## Using instruments

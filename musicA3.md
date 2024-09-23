@@ -18,10 +18,9 @@ Add a medium tempo drum beat by adding the ``||hoc:drum||`` block to the top of 
 ```template
     hoc._add_instrument_activity(Instrument_Activity.Xylophone)
     hoc._add_instrument_activity(Instrument_Activity.Guitar)
-    hoc.note(Note.Do)
-    hoc.note(Note.So)
     hoc.note(Note.La)
-    hoc.note(Note.Fa)
+    hoc.note(Note.So)
+    hoc.note(Note.Do)
 ```
 
 ```package

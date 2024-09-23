@@ -16,10 +16,9 @@ Add the ``||Xylophone||`` to the top of the code.
 ```
 ```template
     hoc._add_instrument_activity(Instrument_Activity.Guitar)
-    hoc.note(Note.Do)
-    hoc.note(Note.So)
     hoc.note(Note.La)
-    hoc.note(Note.Fa)
+    hoc.note(Note.So)
+    hoc.note(Note.Do)
 ```
 
 ```package
