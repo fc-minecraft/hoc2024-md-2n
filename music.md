@@ -18,21 +18,20 @@ You can add or remove an instrument at any time throughout your music. If you de
     for (let i = 0; i < 5; i++) {}
 ```
 ```template
-    hoc.add_instrument(Instrument.Piano)
+    hoc.drums(Drums.Medium)
+    hoc.add_instrument(Instrument.Xylophone)
     hoc.add_instrument(Instrument.Guitar)
-    hoc.drums(Drums.Medium)    
     hoc.note(Note.Do)
-    hoc.note(Note.Re)
-    hoc.note(Note.Mi)
-    hoc.remove_instrument(Instrument.Guitar)
-    hoc.add_instrument(Instrument.Synth)
-    hoc.drums(Drums.Fast)  
-    for (let i = 0; i < 5; i++) {
-        hoc.note(Note.Fa)
-    }  
     hoc.note(Note.So)
     hoc.note(Note.La)
-    hoc.note(Note.Ti)
+    hoc.note(Note.Fa)
+    hoc.add_instrument(Instrument.Bells)
+    hoc.note(Note.Do)
+    hoc.note(Note.So)
+    hoc.note(Note.La)
+    hoc.note(Note.Fa)
+    hoc.remove_instrument(Instrument.Bells)
+    hoc.note(Note.Do)
 ```
 
 ```package

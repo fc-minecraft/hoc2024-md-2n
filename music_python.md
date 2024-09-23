@@ -5,19 +5,20 @@
 # Compose the Music
 
 ```python-template
-hoc.add_instrument(Instrument.Piano)
-hoc.drums(Drums.Slow)
-for i in range(3):
-    hoc.note(Note.Do)
-hoc.note(Note.Re)
-hoc.note(Note.Mi)
+hoc.drums(Drums.Medium)
+hoc.add_instrument(Instrument.Xylophone)
 hoc.add_instrument(Instrument.Guitar)
-hoc.remove_instrument(Instrument.Piano)
-hoc.note(Note.Fa)
+hoc.note(Note.Do)
 hoc.note(Note.So)
-hoc.add_instrument(Instrument.Synth)
 hoc.note(Note.La)
-hoc.note(Note.Ti)
+hoc.note(Note.Fa)
+hoc.add_instrument(Instrument.Bells)
+hoc.note(Note.Do)
+hoc.note(Note.So)
+hoc.note(Note.La)
+hoc.note(Note.Fa)
+hoc.remove_instrument(Instrument.Bells)
+hoc.note(Note.Do)
 ```
 
 ## Create your own Music

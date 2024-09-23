@@ -23,10 +23,6 @@ You can use a ``||loops:for loop||`` instead of multiple blocks to keep a specif
     for (let i = 0; i < 3; i++) {
         hoc.costume(HeadWear.Knight_Helmet, MidWear.Construction_Shirt, LowerWear.Swim_Shorts)
     }
-    hoc.costume(HeadWear.Knight_Helmet, MidWear.Construction_Shirt, LowerWear.Swim_Shorts)
-    hoc.costume(HeadWear.Knight_Helmet, MidWear.Construction_Shirt, LowerWear.Swim_Shorts)
-    hoc.costume(HeadWear.Knight_Helmet, MidWear.Construction_Shirt, LowerWear.Swim_Shorts)
-    hoc.costume(HeadWear.Knight_Helmet, MidWear.Construction_Shirt, LowerWear.Swim_Shorts)
 ```
 
 ```package

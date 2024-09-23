@@ -12,7 +12,6 @@ Add a medium tempo drum beat by adding the ``||hoc:drum||`` block to the top of 
 
 ```ghost
     hoc._add_instrument_activity()
-    hoc._remove_instrument_activity()
     hoc.note()
     hoc.drums()
 ```
