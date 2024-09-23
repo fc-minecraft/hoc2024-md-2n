@@ -16,5 +16,5 @@ Three locks and this one is diamond!? This must be the last one. Get the code fr
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.112
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.113
 ```

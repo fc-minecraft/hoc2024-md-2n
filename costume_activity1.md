@@ -19,5 +19,5 @@ The lock needs the ``||agent:Knight||`` costume to open. Set the head, body and 
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.112
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.113
 ```

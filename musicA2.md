@@ -5,10 +5,10 @@
 # Compose the music
 
 ## Step 1
-That didn't quite work, lets make the song a bit more complex by adding the ``||bell||`` instrument and then replaying the four notes.
+That didn't quite work, lets make the song a bit stronger by adding the ``||Xylophone||`` instrument so both the Xylophone and Guitar plays the notes.
 
 #### ~ tutorialhint
-Add the ``||bell||`` after the guitar plays it's four notes using the ``||hoc:add instrument||`` block and then use the ``||hoc:note||`` block to replay the notes ``||do||`` ``||so||`` ``||la||`` ``||fa||``
+Add the ``||Xylophone||`` to the top of the code.
 
 ```ghost
     hoc._add_instrument_activity()
