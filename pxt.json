@@ -9,7 +9,6 @@
     "files": [
         "README.md",
         "tutorial-info-cache.json",
-        "costume.md",
         "setdesign.md",
         "no_code.md",
         "tutorial.md",
@@ -36,9 +35,6 @@
         "music_python_activity3.md",
         "setdesign_activity.md",
         "setdesign_python_activity2.md",
-        "costume_activity1.md",
-        "costume_activity2.md",
-        "costume_activity3.md",
         "costume_python_activity1.md",
         "costume_python_activity2.md",
         "costume_python_activity3.md",
