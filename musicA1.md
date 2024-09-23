@@ -10,6 +10,7 @@ We need to unlock the door by playing the correct song. Use the ``||hoc:add inst
 #### ~ tutorialhint
 First add the ``||guitar||`` using the ``||hoc:add instrument||`` block then use the ``||hoc:note||`` block to add the notes ``||do||`` ``||so||`` ``||la||`` ``||fa||``
 
+
 ```ghost
     hoc._add_instrument_activity()
     hoc.note()
@@ -26,5 +27,5 @@ First add the ``||guitar||`` using the ``||hoc:add instrument||`` block then use
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/music#v0.0.110
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/music#v0.0.113
 ```
