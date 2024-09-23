@@ -5,12 +5,8 @@
 # Compose the Music
 
 ```python-template
+hoc.add_instrument(Instrument.Xylophone)
 hoc.add_instrument(Instrument.Guitar)
-hoc.note(Note.Do)
-hoc.note(Note.So)
-hoc.note(Note.La)
-hoc.note(Note.Fa)
-hoc.add_instrument(Instrument.Bells)
 hoc.note(Note.Do)
 hoc.note(Note.So)
 hoc.note(Note.La)

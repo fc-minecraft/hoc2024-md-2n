@@ -15,7 +15,9 @@ First add the ``||guitar||`` using the ``||hoc:add instrument||`` block then use
     hoc.note()
 ```
 ```template
-\\
+    hoc._add_instrument_activity(Instrument_Activity.Bells)
+    hoc.note(Note.Do)
+    hoc.note(Note.So)
 ```
 
 ```package
