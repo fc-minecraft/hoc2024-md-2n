@@ -7,12 +7,9 @@
 ```python-template
 hoc.add_instrument(Instrument.Xylophone)
 hoc.note(Note.Do)
-hoc.note(Note.Re)
-hoc.note(Note.Mi)
-hoc.note(Note.Fa)
-hoc.note(Note.So)
-hoc.note(Note.La)
-hoc.note(Note.Ti)
+hoc.note(Note.Do) 
+hoc.note(Note.Do)
+hoc.note(Note.Do)     
 ```
 
 ## Using instruments
