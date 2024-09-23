@@ -30,7 +30,11 @@
         "costume_python_activity2.md",
         "costume_python_activity3.md",
         "dance_activity.md",
-        "dance_python_activity2.md"
+        "dance_python_activity2.md",
+        "costume.md",
+        "costume_activity1.md",
+        "costume_activity2.md",
+        "costume_activity3.md"
     ],
     "testFiles": [],
     "public": true,
