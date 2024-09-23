@@ -8,6 +8,7 @@
 hoc.add_instrument(Instrument.Xylophone)
 hoc.add_instrument(Instrument.Guitar)
 hoc.note(Note.La)
+hoc.note(Note.Re)
 hoc.note(Note.So)
 hoc.note(Note.Do)
 ```
