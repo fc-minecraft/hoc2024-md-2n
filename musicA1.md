@@ -8,7 +8,7 @@
 We need to unlock the door by playing the correct song. Use the ``||hoc:add instrument||`` block to add an instrument and the ``||hoc:note||`` block to add notes.
 
 #### ~ tutorialhint
-First add the ``||guitar||`` using the ``||hoc:add instrument||`` block then use the ``||hoc:note||`` block to add the notes ``|la||`` ``||so||`` ``||do||``
+First add the ``||guitar||`` using the ``||hoc:add instrument||`` block then use the ``||hoc:note||`` block to add the notes ``||la||`` ``||so||`` ``||do||``
 
 
 ```ghost
