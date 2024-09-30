@@ -16,5 +16,5 @@ It looks like there's a second lock made of copper. You'll need to figure out wh
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.113
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume#v0.0.115
 ```
