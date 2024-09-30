@@ -8,7 +8,7 @@
 Look at the lock to see what numbers it's displaying and then use the closet to find which costume pieces matche that number. Once you've matched them up, use the ``||hoc:head, body, and legs||`` block to open the lock.
 
 #### ~ tutorialhint
-The lock needs the ``||agent:Knight||`` costume to open. Set the head, body and legs to use the ``||agent:Knight||`` items.
+Make sure to set the numbers inside the closet to match the numbers on the lock, and then code that costume set.
 
 
 ```ghost

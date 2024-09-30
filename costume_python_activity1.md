@@ -12,7 +12,7 @@ hoc.costume(HeadWear.Knight_Helmet, MidWear.Cowboy_Shirt, LowerWear.Ballerina_Tu
 Look at the lock to see what numbers it's displaying and then use the closet to find which costume pieces matche that number. Once you've matched them up, use the ``||hoc:hoc.costume()||`` function to open the lock. Set the ``||agent:HeadWear, MidWear, and LowerWear||`` of the costumes. See the hint for all available parameters.
 
 #### ~ tutorialhint
-The lock needs the ``||agent:Knight||`` costume to open. Set the head, body and legs to use the ``||agent:Knight||`` items.
+Make sure to set the numbers inside the closet to match the numbers on the lock, and then code that costume set.
 
 **hoc.costume()**  
 Available HeadWear parameters:  
