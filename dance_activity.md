@@ -19,5 +19,5 @@ Match the armor stand with the corresponding poster on the wall. Use the ``||hoc
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/dance#v0.0.111
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/dance
 ```

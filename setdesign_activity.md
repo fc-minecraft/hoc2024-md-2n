@@ -20,5 +20,5 @@ The tagia biome should be ``||hoc:day||`` with ``||hoc:snow||``, the desert biom
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/set#v0.0.110
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/set
 ```

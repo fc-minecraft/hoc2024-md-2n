@@ -27,5 +27,5 @@ Climate.Clear, Climate.Snow, Climate.Rain
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/set#v0.0.110
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/set
 ```

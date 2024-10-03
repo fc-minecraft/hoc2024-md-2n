@@ -26,5 +26,5 @@ Dance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/dance#v0.0.114
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/dance
 ```

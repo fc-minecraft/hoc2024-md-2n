@@ -24,5 +24,5 @@ First add the ``||guitar||`` using the ``||hoc:add instrument||`` block then use
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/music#v0.0.113
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/music
 ```
