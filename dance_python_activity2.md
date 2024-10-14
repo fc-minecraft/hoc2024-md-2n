@@ -14,7 +14,8 @@ hoc.armorstand_dance(ArmorStand.Four, Dance.GolemGallop)
 ## Choreographing the dance
 Match the armor stand with the corresponding poster on the wall. Use the ``||hoc:hoc.armorstand_dance()||`` function to choose which armor stand should do which dance.
 
-
+#### ~ tutorialhint
+The only dances that are used are ``||Dance.MushroomMarch||``, ``||Dance.WitherWave||``, ``||Dance.DolphinDisco||``, ``||Dance.GolemGallop||``
 
 
 
