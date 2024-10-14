@@ -8,7 +8,7 @@
 Let's design the sets! Choose which ``||hoc:biome, time, and weather||`` should be displayed for each portion of the show.
 
 #### ~ tutorialhint
-You can use a ``||loops:for loop||`` instead of multiple blocks to keep a specific set up for longer.
+You can use a ``||loops:repeat loop||`` instead of multiple blocks to keep a specific set up for longer.
 
 ```ghost
     hoc.set(Biome.Taiga, Time.Sunrise, Climate.Clear)

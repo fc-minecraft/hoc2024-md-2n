@@ -5,10 +5,10 @@
 # Compose the music
 
 ## Step 1
-That didn't quite work, lets make the song a bit stronger by adding the ``||Xylophone||`` instrument so both the Xylophone and Guitar plays the notes.
+That didn't quite work, lets make the song a bit stronger by adding the ``||hoc:Xylophone||`` instrument so both the Xylophone and Guitar plays the notes.
 
 #### ~ tutorialhint
-Add the ``||Xylophone||`` to the top of the code.
+Add the ``||hoc:Xylophone||`` to the top of the code.
 
 ```ghost
     hoc._add_instrument_activity()

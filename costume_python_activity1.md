@@ -9,20 +9,10 @@ hoc.costume(HeadWear.Knight_Helmet, MidWear.Cowboy_Shirt, LowerWear.Ballerina_Tu
 ```
 
 ## Choosing the costumes
-Look at the lock to see what numbers it's displaying and then use the closet to find which costume pieces matche that number. Once you've matched them up, use the ``||hoc:hoc.costume()||`` function to open the lock. Set the ``||agent:HeadWear, MidWear, and LowerWear||`` of the costumes. See the hint for all available parameters.
+Look at the lock to see what numbers it's displaying and then use the closet to find which costume pieces matche that number. Once you've matched them up, use the ``||hoc:hoc.costume()||`` function to open the lock. Set the ``||hoc:HeadWear, MidWear, and LowerWear||`` of the costumes. See the hint for all available parameters.
 
 #### ~ tutorialhint
 Make sure to set the numbers inside the closet to match the numbers on the lock, and then code that costume set.
-
-**hoc.costume()**  
-Available HeadWear parameters:  
-HeadWear.Astronaut_Helmet, HeadWear.Cowboy_Hat, HeadWear.Knight_Helmet, HeadWear.Ballerina_Crown, HeadWear.Construction_Helmet
-
-Available MidWear parameters:  
-MidWear.Astronaut_Top, MidWear.Cowboy_Shirt, MidWear.Knight_Top, MidWear.Ballerina_Shirt, MidWear.Construction_Shirt
-
-Available LowerWear parameters:  
-LowerWear.Astronaut_Legs, LowerWear.Cowboy_Pants, LowerWear.Knight_Legs, LowerWear.Ballerina_Tutu, LowerWear.Construction_Pants
 
 
 

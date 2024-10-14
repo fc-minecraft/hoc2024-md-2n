@@ -8,7 +8,7 @@
 Let's dance! Sequence together your ``||hoc:dance steps||`` to create a dance for the Agent to do.
 
 #### ~ tutorialhint
-You can use a ``||loops:for loop||`` instead of multiple blocks to repeat the same dance move.
+You can use a ``||loops:repeat loop||`` instead of multiple blocks to repeat the same dance move.
 
 
 ```ghost

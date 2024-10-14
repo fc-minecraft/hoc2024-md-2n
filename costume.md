@@ -8,7 +8,7 @@
 Time to pick out some costumes! Sequence together the different ``||hoc:head, body, and legs||`` costumes you want the Agent to change into during the show.
 
 #### ~ tutorialhint
-You can use a ``||loops:for loop||`` instead of multiple blocks to keep a specific costume on for longer.
+You can use a ``||loops:repeat loop||`` instead of multiple blocks to keep a specific costume on for longer.
 
 
 ```ghost

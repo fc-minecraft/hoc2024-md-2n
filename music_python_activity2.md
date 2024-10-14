@@ -13,18 +13,10 @@ hoc.note(Note.Do)
 ```
 
 ## Using instruments
-That didn't quite work, lets make the song a bit more stronger by adding the ``||agent:Instrument.Xylophone||`` instrument to the top of the code to play along with the guitar.
+That didn't quite work, lets make the song a bit more stronger by adding the ``||hoc:Instrument.Xylophone||`` instrument to the top of the code to play along with the guitar.
 
 #### ~ tutorialhint
-Now add the ``||agent:Instrument.Xylophone||`` instrument to the start of the code by using the ``||hoc:hoc.add_instrument()||`` function.
-
-**hoc.add_instrument()**  
-Available instruments:  
-Instrument.Xylophone, Instrument.Guitar, Instrument.Bells
-
-**hoc.note()**  
-Available notes:  
-Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
+Now add the ``||hoc:Instrument.Xylophone||`` instrument to the start of the code by using the ``||hoc:hoc.add_instrument()||`` function.
 
 
 ```package
