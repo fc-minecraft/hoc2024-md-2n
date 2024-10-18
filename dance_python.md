@@ -13,7 +13,7 @@ hoc.dance(Dance.MushroomMarch)
 ```
 
 ## Dance like no one's watching
-The Agent needs help choreographing a dance sequence for the show. Use the ``||hoc:hoc.dance()||`` function to sequence a dance choreography for the Agent. See the hint for all available parameters.
+The Agent needs help choreographing a dance sequence for the show. Use the ``||hoc:hoc.dance()||`` function to sequence a dance choreography for the Agent.
 
 
 ```package

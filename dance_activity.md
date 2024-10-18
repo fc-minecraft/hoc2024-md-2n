@@ -5,8 +5,10 @@
 # Choreograph a Dance
 
 ## Step 1
-Match the armor stand with the corresponding poster on the wall. Use the ``||hoc:armor stand dance||`` block to choose which armor stand should do which dance.
+Match the armor stand with the corresponding poster on the wall. Use the ``||hoc:armor stand dance||`` block to choose which armor stand should do which dance. Press play to learn the dances.
 
+#### ~ tutorialhint
+The blue dance is the ``||hoc:wither wave||``
 
 ```ghost
     hoc._dance_activity()

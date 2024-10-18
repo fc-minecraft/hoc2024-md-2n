@@ -22,7 +22,7 @@ hoc.note(Note.Do)
 ```
 
 ## Create your own Music
-The Agent needs help composing music for its show. Use the following functions to create music for the Agent. See the hint for all available music parameters.
+The Agent needs help composing music for its show. Use the following functions to create music for the Agent.
 
 ``||hoc:hoc.add_instrument()||``
 ``||hoc:hoc.remove_instrument()||``

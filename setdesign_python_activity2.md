@@ -12,7 +12,7 @@ hoc.set(Biome.Taiga, Time.Day, Climate.Clear)
 ```
 
 ## Complete the Challenge 
-Search the room to find the 3 scripts that describe the scenes and then use the ``||hoc:hoc.set()||`` function to sequence the 3 sets. It takes three separate paramters that define the set's ``||hoc:biome, time, and climate||``. See the hint for all available parameters.
+Search the room to find the 3 scripts that describe the scenes and then use the ``||hoc:hoc.set()||`` function to sequence the 3 sets. It takes three separate paramters that define the set's ``||hoc:biome, time, and climate||``.
 
 
 ```package

@@ -14,7 +14,7 @@ for i in range(3):
 ```
 
 ## Choosing the costumes
-Time to pick out some costumes! Sequence together the different ``||hoc:head, body, and legs||`` of the costumes using the ``||hoc:hoc.costume()||`` function. See the hint for all available costumes parameters.
+Time to pick out some costumes! Sequence together the different ``||hoc:head, body, and legs||`` of the costumes using the ``||hoc:hoc.costume()||`` function.
 
 
 ```package
