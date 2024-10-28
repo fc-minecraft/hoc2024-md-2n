@@ -8,7 +8,7 @@
 Search the room to find the 3 scripts that describe the scenes and then use the  ``||hoc:biome, time, and weather||`` block to sequence them in the correct order. 
 
 #### ~ tutorialhint
-The tagia biome should be ``||hoc:day||`` with ``||hoc:snow||``, the desert biome should be ``||hoc:sunset||`` with ``||hoc:clear||`` weather, and the jungle biome should be ``||hoc:night||`` with ``||hoc:rain||``.
+The taiga biome should be ``||hoc:day||`` with ``||hoc:snow||``, the desert biome should be ``||hoc:sunset||`` with ``||hoc:clear||`` weather, and the jungle biome should be ``||hoc:night||`` with ``||hoc:rain||``.
 
 ```ghost
     hoc._set_activity()
