@@ -1,6 +1,6 @@
 {
     "name": "hoc2024-md",
-    "version": "0.0.92",
+    "version": "0.0.93",
     "description": "Hour of Code: The Show Must Go On",
     "dependencies": {
         "core": "*",
