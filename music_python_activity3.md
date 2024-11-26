@@ -14,7 +14,7 @@ hoc.note(Note.Do)
 ```
 
 ## Using instruments
-The song is still missing something. Let's add a ``||hoc:Medium||`` tempo using the ``||hoc:hoc.drums()||`` function.
+The song is still missing something. Let's add a ``||hoc:Medium||`` (medium) tempo using the ``||hoc:hoc.drums()||`` function.
 
 #### ~ tutorialhint
 Add the ``||hoc:hoc.drums()||`` function to the beginning of the code and set it to ``||hoc:Medium||`` so it plays along with the Guitar and Xylophone.

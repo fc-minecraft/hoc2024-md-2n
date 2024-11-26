@@ -35,12 +35,13 @@
         "music_python_activity1.md",
         "music_python_activity2.md",
         "music_python_activity3.md",
-        "musicA1.md"
+        "musicA1.md",
+        "costume_activity1_ar.md"
     ],
     "testFiles": [],
     "public": true,
     "targetVersions": {
-        "target": "1.7.28",
+        "target": "2.0.28",
         "targetId": "minecraft"
     },
     "supportedTargets": [
