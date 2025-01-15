@@ -5,10 +5,10 @@
 # Compose the music
 
 ## Step 1
-We need to unlock the door by playing the correct song. Use the ``||hoc:add instrument||`` block to add an instrument and the ``||hoc:note||`` block to add notes.
+Нам нужно открыть дверь, сыграв правильную песню. Используй блок "добавить инструмент" для добавления инструмента и блок "нота" для добавления нот.
 
 #### ~ tutorialhint
-First add the ``||hoc:guitar||`` using the ``||hoc:add instrument||`` block then use the ``||hoc:note||`` block to add the notes ``||hoc:la||`` ``||hoc:re||`` ``||hoc:so||`` ``||hoc:do||``
+Сначала добавь "гитара" с помощью блока "добавить инструмент", затем используй блок "нота" для добавления нот "la" "re" "so" "do".
 
 
 ```ghost
