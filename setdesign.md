@@ -30,5 +30,5 @@ You can use a ``||loops:repeat loop||`` instead of multiple blocks to keep a spe
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/set
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/set
 ```

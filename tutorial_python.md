@@ -17,5 +17,5 @@ Run the ``||hoc:hoc.raise_hand()||`` function to start the game.
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1
 ```

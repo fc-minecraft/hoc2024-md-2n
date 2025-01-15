@@ -3,7 +3,7 @@
     "dependencies": {
         "core": "*",
         "builder": "*",
-        "hoc2024-md": "github:rewrite-media/hoc2024-md"
+        "hoc2024-md": "github:fc-minecraft/hoc2024-ts-1"
     },
     "files": [
         "main.blocks",

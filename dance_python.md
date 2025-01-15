@@ -17,5 +17,5 @@ The Agent needs help choreographing a dance sequence for the show. Use the ``||h
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/dance
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/dance
 ```

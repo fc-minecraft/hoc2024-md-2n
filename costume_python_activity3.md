@@ -16,5 +16,5 @@ One more lock? This must be the last one. Get the code from the diamond lock and
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/costume
 ```

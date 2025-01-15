@@ -19,5 +19,5 @@ MISSING DESCRIPTION
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/music#v0.0.103
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/music#v0.0.1
 ```

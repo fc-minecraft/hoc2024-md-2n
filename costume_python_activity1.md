@@ -18,5 +18,5 @@ Make sure to set the numbers inside the closet to match the numbers on the lock,
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/costume
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/costume
 ```

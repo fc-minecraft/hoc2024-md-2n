@@ -20,5 +20,5 @@ First add the ``||hoc:Instrument.Guitar||`` by using the ``||hoc:hoc.add_instrum
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/music
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/music
 ```

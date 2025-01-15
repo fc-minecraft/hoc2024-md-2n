@@ -16,5 +16,5 @@ Search the room to find the 3 scripts that describe the scenes and then use the 
 
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/set
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/set
 ```
