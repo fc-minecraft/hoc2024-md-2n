@@ -5,10 +5,10 @@
 # Compose the music
 
 ## Step 1
-The song is still missing something. Let's add a medium tempo ``||hoc:drum||`` beat.
+В песне все еще чего-то не хватает. Давай добавим ударный ритм со средним темпом "барабан".
 
 #### ~ tutorialhint
-Add a medium tempo drum beat by adding the ``||hoc:drum||`` block to the top of the code.
+Добавь ударный ритм со средним темпом, вставив блок "барабан" в начало кода.
 
 ```ghost
     hoc._add_instrument_activity()
