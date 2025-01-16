@@ -5,10 +5,10 @@
 # Choreograph a Dance
 
 ## Step 1
-Match the armor stand with the corresponding poster on the wall. Use the ``||hoc:armor stand dance||`` block to choose which armor stand should do which dance. Press play to learn the dances.
+Сопоставь стойку для брони с соответствующим постером на стене. Используй блок "танец стойки для брони", чтобы выбрать, какая стойка должна выполнять какой танец. Нажми "играть", чтобы узнать танцы.
 
 #### ~ tutorialhint
-The blue dance is the ``||hoc:wither wave||``
+Синий танец — это "Иссушающая волна".
 
 ```ghost
     hoc._dance_activity()

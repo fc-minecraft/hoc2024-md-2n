@@ -5,10 +5,10 @@
 # Choreograph a Dance
 
 ## Step 1
-Let's dance! Sequence together your ``||hoc:dance steps||`` to create a dance for the Agent to do.
+Давай танцевать! Соедини блоки, чтобы создать танец для Агента.
 
 #### ~ tutorialhint
-You can use a ``||loops:repeat loop||`` instead of multiple blocks to repeat the same dance move.
+Ты можешь использовать цикл (повторения) вместо нескольких блоков, чтобы повторять один и тот же танцевальный элемент.
 
 
 ```ghost

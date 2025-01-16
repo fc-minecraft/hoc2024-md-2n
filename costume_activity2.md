@@ -5,7 +5,7 @@
 # Choose the costumes
 
 ## Step 1
-It looks like there's a second lock made of copper. You'll need to figure out which costume pieces it requires.
+Похоже, что есть второй замок из меди. Нужно выяснить, какие элементы костюма нужны.
 
 
 ```ghost

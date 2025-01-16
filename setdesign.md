@@ -5,10 +5,10 @@
 # Design the sets
 
 ## Design the sets
-Let's design the sets! Choose which ``||hoc:biome, time, and weather||`` should be displayed for each portion of the show.
+Давай создадим наборы! Выбери, какой "биом, время и погода" должны быть показаны для каждой части шоу.
 
 #### ~ tutorialhint
-You can use a ``||loops:repeat loop||`` instead of multiple blocks to keep a specific set up for longer.
+Ты можешь использовать цикл (повторения) вместо нескольких блоков, чтобы отображать определенный набор дольше.
 
 ```ghost
     hoc.set(Biome.Taiga, Time.Sunrise, Climate.Clear)

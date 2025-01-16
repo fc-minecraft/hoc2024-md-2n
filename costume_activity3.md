@@ -5,8 +5,7 @@
 # Choose the costumes
 
 ## Step 1
-Three locks and this one is diamond!? This must be the last one. Get the code from the diamond lock and figure out which costume pieces it needs.
-
+Три замка, и этот из алмаза!? Это, должно быть, последний. Получите код от алмазного замка и выясните, какие элементы костюма нужны.
 
 ```ghost
     hoc._costume_activity(HeadWear_Activity.Knight_Helmet, MidWear_Activity.Knight_Top, LowerWear_Activity.Knight_Legs)

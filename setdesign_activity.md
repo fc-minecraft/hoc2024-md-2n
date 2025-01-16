@@ -5,10 +5,10 @@
 # Design the sets
 
 ## Step 1
-Search the room to find the 3 scripts that describe the scenes and then use the  ``||hoc:biome, time, and weather||`` block to sequence them in the correct order. 
+Обследуй комнату, чтобы найти 3 скрипта, которые описывают сцены, а затем используй блок "биом, время и погода" для их последовательного расположения в правильном порядке.
 
 #### ~ tutorialhint
-The taiga biome should be ``||hoc:day||`` with ``||hoc:snow||``, the desert biome should be ``||hoc:sunset||`` with ``||hoc:clear||`` weather, and the jungle biome should be ``||hoc:night||`` with ``||hoc:rain||``.
+Биом тайги должен быть "день" с погодой "снег", биом пустыни должен быть "закат" с ясной погодой "ясно", а биом джунглей должен быть "ночь" с погодой "дождь".
 
 ```ghost
     hoc._set_activity()

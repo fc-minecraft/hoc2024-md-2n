@@ -5,10 +5,10 @@
 # Compose the music
 
 ## Step 1
-Let's compose some music! You can add and remove instruments using the ``||hoc:add instrument||`` and ``||hoc:remove instrument||`` blocks and start a drum beat using the ``||hoc:drum||`` block. Then use the ``||hoc:note||`` block to create the song. 
+Давай сочиним музыку! Ты можешь добавлять и удалять инструменты, используя блоки "добавить инструмент" и "удалить инструмент", а также начать ритм ударных с помощью блока "ударные". Затем используй блок "нота", чтобы создать песню.
 
 #### ~ tutorialhint
-You can add or remove an instrument at any time throughout your music. If you define multiple instruments, they will all play the same note at the same time.
+Ты можешь добавлять или удалять инструмент в любое время во время создания музыки. Если ты выберешь несколько инструментов, они все будут играть одну и ту же ноту одновременно.
 
 ```ghost
     hoc.add_instrument()

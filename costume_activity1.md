@@ -5,10 +5,10 @@
 # Choose the costumes
 
 ## Step 1
-Look at the lock to see what numbers it's displaying and then use the closet to find which costume pieces match that number. Once you've matched them up, use the ``||hoc:head, body, and legs||`` block to open the lock.
+Посмотри на замок, чтобы увидеть, какие числа он отображает, а затем используй шкаф, чтобы найти, какие элементы костюма соответствуют этим числам. Как только вы их сопоставишь, используй блок кода с выбором костюма, чтобы открыть замок.
 
 #### ~ tutorialhint
-Make sure to set the numbers inside the closet to match the numbers on the lock, and then code that costume set.
+Убедись, что ты расставил предметы в коде так, чтобы они соответствовали числам на замке. Например, Первый костюм - число "1".
 
 
 ```ghost

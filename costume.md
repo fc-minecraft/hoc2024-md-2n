@@ -5,10 +5,10 @@
 # Choose the costumes
 
 ## Step 1
-Time to pick out some costumes! Sequence together the different ``||hoc:head, body, and legs||`` costumes you want the Agent to change into during the show.
+Время выбрать костюмы! Соедини разные костюмы, в которые ты хочешь, чтобы Агент переоделся в них на шоу.
 
 #### ~ tutorialhint
-You can use a ``||loops:repeat loop||`` instead of multiple blocks to keep a specific costume on for longer.
+Ты можешь использовать цикл (повторения) вместо нескольких блоков, чтобы дольше оставить один и тот же костюм.
 
 
 ```ghost
