@@ -24,5 +24,5 @@
 ```
 
 ```package
-hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/music
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/music#v0.0.4
 ```

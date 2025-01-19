@@ -32,5 +32,5 @@ The Agent needs help composing music for its show. Use the following functions t
 
 
 ```package
-hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/music
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/music#v0.0.4
 ```

@@ -33,5 +33,5 @@ HeadWear.Astronaut_Legs, HeadWear.Cowboy_Pants, HeadWear.Knight_Legs
 
 
 ```package
-hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/costume#v0.0.1
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/costume#v0.0.4
 ```

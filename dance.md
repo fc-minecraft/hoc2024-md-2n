@@ -30,5 +30,5 @@
 ```
 
 ```package
-hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/dance
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/dance#v0.0.4
 ```

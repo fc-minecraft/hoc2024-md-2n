@@ -23,5 +23,5 @@ There are 4 posters on the wall with numbers. Those posters will tell you the se
 ```
 
 ```package
-hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/dance#v0.0.1
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/dance#v0.0.4
 ```

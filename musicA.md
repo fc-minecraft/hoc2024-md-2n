@@ -19,5 +19,5 @@ MISSING DESCRIPTION
 ```
 
 ```package
-hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/music#v0.0.1
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/music#v0.0.4
 ```

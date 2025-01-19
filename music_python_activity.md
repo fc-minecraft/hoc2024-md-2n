@@ -73,5 +73,5 @@ Drums.Slow, Drums.Medium, or Drums.Fast, Drums.None
 
 
 ```package
-hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/music#v0.0.105
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/music#v0.0.405
 ```

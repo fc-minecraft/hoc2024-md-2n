@@ -32,5 +32,5 @@ Climate.Clear, Climate.Snow, Climate.Rain
 
 
 ```package
-hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/set#v0.0.1
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/set#v0.0.4
 ```

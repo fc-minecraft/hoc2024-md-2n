@@ -19,5 +19,5 @@
 ```
 
 ```package
-hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/costume
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/n/costume#v0.0.4
 ```

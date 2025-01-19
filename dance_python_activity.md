@@ -30,5 +30,5 @@ Dance.Move1, Dance.Move2, Dance.Move3, Dance.Move4
 
 
 ```package
-hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/dance#v0.0.1
+hoc2024-ts=github:fc-minecraft/hoc2024-ts-1/dance#v0.0.4
 ```
