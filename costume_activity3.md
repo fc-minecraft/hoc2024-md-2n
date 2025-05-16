@@ -5,7 +5,7 @@
 # Choose the costumes
 
 ## Step 1
-Три замка, и этот из алмаза!? Это, должно быть, последний. Получите код от алмазного замка и выясните, какие элементы костюма нужны.
+Три замка, и этот из алмаза!? Это, должно быть, последний. Получи код от алмазного замка и выясни, какие элементы костюма нужны.
 
 ```ghost
     hoc._costume_activity(HeadWear_Activity.Knight_Helmet, MidWear_Activity.Knight_Top, LowerWear_Activity.Knight_Legs)
