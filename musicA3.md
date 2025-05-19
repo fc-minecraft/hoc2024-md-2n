@@ -9,6 +9,16 @@
 
 #### ~ tutorialhint
 Добавь ударный ритм с умеренным темпом, вставив блок "барабан" в начало кода.
+```blocks
+    hoc.drums(Drums.Medium)
+    hoc._add_instrument_activity(Instrument_Activity.Xylophone)
+    hoc._add_instrument_activity(Instrument_Activity.Guitar)
+    hoc.note(Note.La)
+    hoc.note(Note.Re) 
+    hoc.note(Note.So)
+    hoc.note(Note.Do) 
+```
+
 
 ```ghost
     hoc._add_instrument_activity()

@@ -9,6 +9,14 @@
 
 #### ~ tutorialhint
 Добавь "ксилофон" в начало кода.
+```blocks
+    hoc._add_instrument_activity(Instrument_Activity.Xylophone)
+    hoc._add_instrument_activity(Instrument_Activity.Guitar)
+    hoc.note(Note.La)
+    hoc.note(Note.Re) 
+    hoc.note(Note.So)
+    hoc.note(Note.Do) 
+```
 
 ```ghost
     hoc._add_instrument_activity()
